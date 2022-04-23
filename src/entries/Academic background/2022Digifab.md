@@ -1,5 +1,5 @@
 ---
-title: Formation, Concepteur Developpeur Application Web/Mobile
+title: In training, Designer Developer Apps Web/Mobile
 organization: Digifab
 location: Annemasse, Haute-Savoie
 start: 2022-04-04
