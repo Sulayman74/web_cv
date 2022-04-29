@@ -34,8 +34,13 @@
         },
         {
             "name": "LinkedIn",
-            "user": "SirikoneKeohavong",
-            "url": "https://www.linkedin.com/in/keohavong-sirikone"
+            "user": "sirikone-keohavong",
+            "url": "https://www.linkedin.com/in/sirikone-keohavong/"
+        },
+        {
+          "name": "Twitter",
+          "user": "SirikoneK",
+          "url": "https://twitter.com/SirikoneK"
         }
     ]
 }
