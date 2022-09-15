@@ -1,6 +1,6 @@
 {
     "name": "Sirikone Keohavong",
-    "occupation": "Full stack Developer in training",
+    "occupation": "Full stack Developer in training (Bachelor diploma)",
     "location": "Bonneville, Haute-Savoie",
     "avatar": "profile-pic.jpg",
     "email": "keohavong.sirikone@gmail.com",
@@ -8,13 +8,12 @@
     "skills": [
         "HTML",
         "CSS",
-        "",
-        "",
-        "Git",
+        "Javascript",
+        "Node.js",
+        "Git/Github",
         "Agile/Scrum",
-        "",
-        "Team Spirit"
-
+        "Team Spirit",
+        ""
     ],
     "languages": [
         {
@@ -42,9 +41,9 @@
             "url": "https://www.linkedin.com/in/sirikone-keohavong/"
         },
         {
-          "name": "Twitter",
-          "user": "SirikoneK",
-          "url": "https://twitter.com/SirikoneK"
+            "name": "Twitter",
+            "user": "SirikoneK",
+            "url": "https://twitter.com/SirikoneK"
         }
     ]
 }
