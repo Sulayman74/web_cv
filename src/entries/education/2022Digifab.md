@@ -1,5 +1,5 @@
 ---
-title: In training, Designer Developer Apps Web/Mobile
+title: In training, Designer Developer Apps Web/Mobile level Bachelor with a diploma
 organization: Digifab
 location: Annemasse, Haute-Savoie
 start: 2022-04-04
