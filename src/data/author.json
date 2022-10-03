@@ -1,21 +1,18 @@
 {
     "name": "Sirikone Keohavong",
-    "occupation": "Full stack Developer in training (Bachelor diploma)",
+    "occupation": "Developer App Web/Mobile in training (Bachelor diploma)",
     "location": "Bonneville, Haute-Savoie",
     "avatar": "profile-pic.jpg",
     "email": "keohavong.sirikone@gmail.com",
     "telephone": "+33 (6) 17 46 22 08",
     "skills": [
-        "HTML",
-        "CSS",
+        "HTML/CSS",
         "Javascript",
-        "Node.js",
-        "Express.js",
+        "Node.js/Express.js",
         "Angular",
-        "PostgreSQL",
+        "PostgreSQL/MongoDB",
         "Git/Github",
-        "Agile/Scrum",
-        "Team Spirit"
+        "Agile/Scrum"
     ],
     "languages": [
         {

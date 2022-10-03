@@ -1,5 +1,5 @@
 ---
-title: In training, Full-Stack developer Web/Mobile
+title: In training, developer App Web/Mobile
 organization: Digifab
 location: Annemasse, Haute-Savoie
 start: 2022-04-04
