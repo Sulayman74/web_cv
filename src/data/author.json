@@ -6,11 +6,11 @@
     "email": "keohavong.sirikone@gmail.com",
     "telephone": "+33 (6) 17 46 22 08",
     "skills": [
-        "HTML/CSS",
-        "Javascript",
+        "HTML/CSS(SCSS)",
+        "Javascript/Typescript",
         "Node.js/Express.js",
         "Angular",
-        "PostgreSQL/MongoDB",
+        "PostgreSQL",
         "Git/Github",
         "Agile/Scrum"
     ],
@@ -41,7 +41,7 @@
         },
         {
             "name": "Twitter",
-            "user": "SirikoneK",
+            "user": "@SirikoneK",
             "url": "https://twitter.com/SirikoneK"
         }
     ]
